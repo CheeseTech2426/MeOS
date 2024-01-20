@@ -1,5 +1,6 @@
 # MeOS
 MeOS is an operating system made in C# using the COSMOS Framework. All the graphics are powered by MeTGL
+You can use this freely. This is just a hobby project.
 
 # Features
 - Basic File Manager
