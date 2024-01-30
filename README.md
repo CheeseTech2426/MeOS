@@ -3,7 +3,7 @@ MeOS is an operating system made in C# using the COSMOS Framework. All the graph
 You can use this freely. This is just a hobby project.
 
 # MeOS 2.0
-Because I swapped Userkit to Devkit so I can get CosmosHTTP and CosmosCoroutines, unfortunally the MeOS 1.0 project doesn't work really well and I have to rewrite the OS. So MeOS 2.0 will seem a bit different and it will be delayed. I apologize the inconviniance.
+Because I swapped Userkit to Devkit so I can get CosmosHTTP and CosmosCoroutines, unfortunally the MeOS 1.0 project doesn't work really well and I have to rewrite the OS. So MeOS 2.0 will seem a bit different and it will be delayed. But all the features will be released back as an patch. I apologize the inconviniance.
 
 # Features
 - Basic File Manager
